@@ -1,2 +1,2 @@
 # goguru
-A Intelligent Personnel Assistant form travel. 
+A Intelligent Personnel Assistant for travel. 
